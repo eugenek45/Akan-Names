@@ -1,0 +1,56 @@
+body{
+    background-image: url(images/kitenge\ \(1\).jpg);
+}
+
+
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.jumbotron{
+    border-radius:50px;
+    margin-top: 5px;
+}
+
+input[type=number]{
+    margin: 3px;
+    border-radius: 5px;
+    height: 40px;
+}
+
+input[type=reset]{
+    margin: 3px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+::placeholder{
+    font-size: 15px;
+    padding-left: 10px;
+    color: rgb(150, 84, 5);
+    text-align: center;
+    
+    font-style: italic;
+}
+
+#result{
+    color:green;
+    background-color: rgb(165, 122, 12);
+    padding: 6px;
+    text-align: center;
+}
+
+article{
+    background-color:bisque;
+    padding: 10px;
+    font-weight: bold;
+    color: rgb(117, 86, 7);
+    text-align: center;
+}
+.checkbox{
+    color:rgb(122, 70, 7);
+}
+.row{
+    display: center;
+}
