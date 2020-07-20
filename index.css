@@ -8,7 +8,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     background-color: burlywood;
-    box-shadow: 10px 10px 10px burlywood;
+    box-shadow: 10px 10px 10px bisque;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }
@@ -44,10 +44,11 @@ input[type=reset]{
 }
 
 #result{
-    color:green;
-    background-color: rgb(165, 122, 12);
+    color:rgb(41, 201, 41);
+    background-color: rgb(4, 11, 48);
     padding: 6px;
     text-align: center;
+    font-weight: 500px;
 }
 
 article{
