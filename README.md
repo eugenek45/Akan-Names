@@ -2,7 +2,7 @@
 By: Eugene Kiprotich. Akan names
 
 #Live link
-For a quick navigation to my Akan name web application, follow through this link: https://murathe.github.io/akanNames/
+For a quick navigation to my Akan name web application, follow through this link: https://github.com/eugenek45/Akan-names
 
 #DESCRIPTION
 This is web application that helps to output one's Ghanaian name in line with the Akan naming culture, the inputs being full date of birth. The names are different such that each gender has it's own set of names provided.
