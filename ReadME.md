@@ -1,7 +1,11 @@
 # Akan-Names
 Display Akan  Names.
 
+<<<<<<< HEAD
  ![preview](file:///C:/Users/tchal/Desktop/Akan/images/Capture.PNG)
+=======
+ ![images] (file:///C:/Users/tchal/Desktop/Akan/images/Capture.PNG)
+>>>>>>> b744d54e94885cc5fae700d796bb5c2e117eb3fa
 
 A web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender, outputs their Akan name which are names drived from Ghanaian culture. In ghana children are given their first name as a "day name" which corresponds to the day of the week they were born.
 
