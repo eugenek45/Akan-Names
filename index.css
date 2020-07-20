@@ -8,7 +8,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     background-color: white;
-    box-shadow: 1px 1px 10px #58741C;
+    box-shadow: 10px 10px 10px rgb(125, 172, 15);
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }
