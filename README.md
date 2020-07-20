@@ -1,13 +1,13 @@
-AKAN NAMES GENERATOR
+#AKAN NAMES GENERATOR
 By: Eugene Kiprotich. Akan names
 
-Live link
+#Live link
 For a quick navigation to my Akan name web application, follow through this link: https://murathe.github.io/akanNames/
 
-DESCRIPTION
+#DESCRIPTION
 This is web application that helps to output one's Ghanaian name in line with the Akan naming culture, the inputs being full date of birth. The names are different such that each gender has it's own set of names provided.
 
-TECHNOLOGIES USED
+#TECHNOLOGIES USED
 HTML
 CSS
 Bootstrap
@@ -22,6 +22,6 @@ Month & year	Akan name
 SUPPORT & COLLABORATION
 To anyone who'd like to add a feature to th site, kindly clone the site - and further contact me on the permission to merge your changes.
 
-Licence
-MIT License
-Copyright (c) [2019] [Eugene Kiprotich]
+#Licence
+#MIT License
+#Copyright (c) [2020] [Eugene Kiprotich]
