@@ -32,4 +32,4 @@ The Akan-Names app is compatible with devices of all sizes and all OS's and cons
 eugenekiprotich0@gmail.com
 
 # License and copyright
-Eugene, kiprotich Licensed under the [MIT License](LICENSE.md).
+Eugene, kiprotich Licensed under the [MIT License](LICENSE).
